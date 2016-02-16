@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	width:60%;
+	margin:0 auto;
+	padding-bottom:15%;
+	background:#6D4C41;
+}
+.prodlist {
+	background:#ccc;
+	width:60%;	
+	float:left;
+}
+.shopplist {
+	width:30%;
+	float:right;
+	background:#607D8B;
+	height:500px;	
+}
+td{
+	width:30%;
+	magin:0 auto;
+	text-align:center;	
+}
+ul {
+	background:#38A3E7;
+	font-size:16px;
+	font:"Arial", sans-serif;	
+}
+img {
+	width:30%;
+	height:auto;	
+}
